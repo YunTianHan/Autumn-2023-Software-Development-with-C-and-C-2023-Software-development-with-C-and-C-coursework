@@ -1,0 +1,3 @@
+C:/Users/76878/Desktop/HomeWork/C++_CouserWork/202118010418_CHC5028_CW/cmake-build-debug/CMakeFiles/textadv.dir
+C:/Users/76878/Desktop/HomeWork/C++_CouserWork/202118010418_CHC5028_CW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/76878/Desktop/HomeWork/C++_CouserWork/202118010418_CHC5028_CW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
